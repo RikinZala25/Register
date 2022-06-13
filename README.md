@@ -1,6 +1,12 @@
 # Register
 This is registeration site using Languages - Java featuring Servlet, JSP & JDBC.
 
+Servlet: It is a technology which is used to develop web application in java.
+
+JSP : It is also technology which is also used to develop web application in java. Jsps are used for providing dynamic response. But at the end every JSP convert into servlet.
+
+This features are widely used before, and are now reduced in usage, but still a learning path for ultimate frameworks -- Springboot & Hibernate
+
 Key Libraries used:
 
 Materialize CSS - https://materializecss.com/about.html
